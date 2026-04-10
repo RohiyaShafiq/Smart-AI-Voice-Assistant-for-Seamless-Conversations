@@ -51,8 +51,9 @@ This project is an advanced AI Voice Assistant that integrates Text-to-Speech (T
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/yourusername/AI-Voice-assistant.git
-cd AI-Voice-assistant
+git clone https://github.com/yourusername/Smart AI Voice Assistant for Seamless Conversations
+.git
+cd Smart AI Voice Assistant for Seamless Conversations
 ```
 
 2. **Create and activate a virtual environment:**
